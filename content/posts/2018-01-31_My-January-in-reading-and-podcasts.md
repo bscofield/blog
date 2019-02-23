@@ -54,4 +54,4 @@ Genre breakdown for podcasts
 
 I listen to a lot of podcasts — probably too many. I’ve been a little better about dropping episodes here and there, and I’m not feeling at all overwhelmed by the volume, so I don’t know that I need to change anything about this imminently, but it’s definitely something I’m keeping an eye on.
 
-I do have some favorites, though: I’ve really been enjoying [Get Hype!](https://twitter.com/GetHypePod) (there’s nothing better than hearing people talk about things they’re excited about), and I finally got around to listening to — and binging — the first season of [Uncivil](http://uncivil.show/), which was great.
+I do have some favorites, though: I’ve really been enjoying [Get Hype!](https://twitter.com/GetHypePod) (there’s nothing better than hearing people talk about things they’re excited about), and I finally got around to listening to — and binging — the first season of [Uncivil](//uncivil.show/), which was great.

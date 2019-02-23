@@ -6,9 +6,9 @@ categories: ''
 keywords: ''
 ---
 
-North Carolina has a complicated history with voter rights. In 2016 alone, some [60,000 voters were denied a regular ballot](http://www.newsobserver.com/news/politics-government/state-politics/article115400748.html) because of problems with the voter rolls — and as political engagement and enthusiasm to vote is increasing around the country, we’re going to need tools to help make sure that everyone who is eligible and wants to vote, can.
+North Carolina has a complicated history with voter rights. In 2016 alone, some [60,000 voters were denied a regular ballot](//www.newsobserver.com/news/politics-government/state-politics/article115400748.html) because of problems with the voter rolls — and as political engagement and enthusiasm to vote is increasing around the country, we’re going to need tools to help make sure that everyone who is eligible and wants to vote, can.
 
-Several months ago, [Ragtag](https://ragtag.org/) was approached by [Insightus](http://insight-us.org/), a NC-based nonprofit, to help build such a tool — and as of this week, [Reg Watch](https://ncgovote.org/) is live.
+Several months ago, [Ragtag](https://ragtag.org/) was approached by [Insightus](//insight-us.org/), a NC-based nonprofit, to help build such a tool — and as of this week, [Reg Watch](https://ncgovote.org/) is live.
 
 ![](https://cdn-images-1.medium.com/max/800/1*Y4FgvXyklu6sfM2BjYTAqA.png)
 

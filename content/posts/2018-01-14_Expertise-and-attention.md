@@ -12,7 +12,7 @@ As of right now I think of expertise as some mix of: representational knowledge 
 
 For this post, I want to focus on the last element: attention.
 
-Expert performers attend to different things than novices do; that’s a well-established finding across many fields, and it helps to explain several other facets of high-level performance — like domain memory, where chess masters can remember full boards after brief exposure. In some cases, that attention is on things that novices don’t even know exist, like the differences between [one LBB and the next](http://tech.mit.edu/V133/N53/birds.html). In others, the attention is on higher-level patterns — expert performers are seeing the forest instead of focusing on the individual trees.
+Expert performers attend to different things than novices do; that’s a well-established finding across many fields, and it helps to explain several other facets of high-level performance — like domain memory, where chess masters can remember full boards after brief exposure. In some cases, that attention is on things that novices don’t even know exist, like the differences between [one LBB and the next](//tech.mit.edu/V133/N53/birds.html). In others, the attention is on higher-level patterns — expert performers are seeing the forest instead of focusing on the individual trees.
 
 Expert performers also _neglect_ to attend to some aspects that novices will carefully watch. For instance, a study on burglars in the UK compared how burglars and (presumably law-abiding) homeowners judged whether a house seemed like a tempting target; experienced burglars ignored a number of factors that the homeowners naively thought relevant.
 

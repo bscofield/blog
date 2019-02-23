@@ -15,7 +15,7 @@ All in all, I think I overdid it -- I'm a fan of committing to reading, but my c
 
 ## When I read
 
-I mentioned falling behind pace at one point. As it turns out, that slowdown started when I [left LivingSocial](http://benscofield.com/on-taking-time-to-think/) in early April. Weirdly, I stopped reading (or at least *finishing*) when I wasn't working -- it happened again after [Wantful shut down](http://johnpoisson.com/post/60467938116/some-news-about-wantful/). This chart shows the number of books finished by day, with each month getting its own row (January's on top).
+I mentioned falling behind pace at one point. As it turns out, that slowdown started when I [left LivingSocial](//benscofield.com/on-taking-time-to-think/) in early April. Weirdly, I stopped reading (or at least *finishing*) when I wasn't working -- it happened again after [Wantful shut down](//johnpoisson.com/post/60467938116/some-news-about-wantful/). This chart shows the number of books finished by day, with each month getting its own row (January's on top).
 
 ![Completed books by day](https://raw.github.com/bscofield/bscofield.github.com/source/images/completions-by-day.png)
 

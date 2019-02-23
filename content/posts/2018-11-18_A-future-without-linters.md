@@ -18,7 +18,7 @@ A future without **linters**.
 
 “Impossible!” I hear from the balcony, and to which I respond: it isn’t.
 
-I spent last week in LA at [RubyConf](http://rubyconf.org/) (which was great! The talks will all be posted in the next few weeks, and you should check them out), and there was a surprising amount of talk about linters — prompted in large part by the release of [Standard](https://github.com/testdouble/standard), a gem that provides a recommended set of rules for the [RuboCop](https://github.com/rubocop-hq/rubocop) linter.
+I spent last week in LA at [RubyConf](//rubyconf.org/) (which was great! The talks will all be posted in the next few weeks, and you should check them out), and there was a surprising amount of talk about linters — prompted in large part by the release of [Standard](https://github.com/testdouble/standard), a gem that provides a recommended set of rules for the [RuboCop](https://github.com/rubocop-hq/rubocop) linter.
 
 The thing is, we’re very close to the point (if not at or past it) where our tools will allow us to reformat code _on the fly_; there’s a lot of research on this in the #MLonCode community (machine learning on code). This would let developers write code in whatever style they liked; the code would then be saved — probably in a more generic form — and when it is pulled up for reading or editing, it could be automatically reformatted to conform to the reader’s preferred style.
 
