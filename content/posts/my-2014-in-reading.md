@@ -1,8 +1,10 @@
 +++
+author = "Ben"
 description = ""
 draft = true
 date = "2015-01-15"
 title = "My 2014 in Reading"
+tags = [ "reading" ]
 +++
 
 I had a lot of fun writing up my year in reading [last year](http://benscofield.com/my-2013-in-reading/), so I thought I'd do it again for 2014.
