@@ -1,4 +1,8 @@
 baseURL = "http://benscofield.com/"
 languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "Ben Scofield"
-theme = "tale"
+theme = "hugo-material-blog"
+
+[author]
+  name = "Ben Scofield"

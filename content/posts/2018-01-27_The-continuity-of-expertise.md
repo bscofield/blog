@@ -1,0 +1,17 @@
+---
+title: The continuity of expertise
+date: '2018-01-27T00:55:58.915Z'
+categories: 'expertise'
+keywords: ''
+
+---
+
+One of the (many) things that makes research on the highest levels of expertise challenging is that — by definition — there aren’t that many people at the highest levels of expertise. One way around this obstacle is to try to actually study those people — the Olympians, the chess Grandmasters, the international orchestral soloists, etc. Depending on the domain, that’s either difficult or impossible, so most research ends up taking the second option: they study people with less expertise. There are countless studies on novices, on practiced journeymen, on regional champions, and other less-than-world-class performers across every domain imaginable. (Heck, the research on burglars I mentioned in [a previous post](https://medium.com/@bscofield/expertise-and-attention-59024f732c77) was presumably of this sort — since more expert burglars probably wouldn’t have been caught and been available to interview in jail in the first place)
+
+This practice is widespread, but it’s not unimpeachable. Anders Ericsson — he of the research that spawned (via Gladwell) the 10,000 hour rule and the deliberate practice framework — explicitly objected to it in his response to a series of papers published in a [2013 special issue of _Intelligence_](https://www.sciencedirect.com/science/journal/01602896/4). One of the papers in that issue, for instance, looked at a population of fewer than 11,000 12-year-olds and counted as “experts” the top 5% (and for some exploratory analysis, the top 1%) in reading ability. This seems to be a perfectly reasonable setup for a study of adolescent reading, but to Ericsson, it seemed hardly a valid investigation into the nature of true, world-class expertise in reading (and, he argues, what does it even mean to have great expertise in an everyday skill like reading?)
+
+So, there’s a tension. On the one hand, most researchers proceed from an assumption that the underlying processes for attaining expertise remain constant throughout the process of acquisition. On the other, Ericsson hold that the highest levels of expertise are qualitatively different from lower levels. (You _might_ be able to read the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) in this way, too, given the significant differences it posits between different levels of expertise, but I don’t know that anyone has made this argument explicitly).
+
+My take is that the assumption of continuity is correct; in what I’ve read, the highest levels of expertise seem to differ from lower levels in that they’re characterized by having more of something (facts, patterns to recognize, etc.) rather than a totally new kind of thing. For Ericsson’s argument to be correct, he would have to say that the way people perform at lower levels of expertise is fundamentally different than the way they do at higher levels — but his model of expert performance (which I’m hoping to go into more detail on in future posts) works just as well for the lower levels as it does for the most expert performers.
+
+I think there’s lots to be discovered by studying those with the most expertise in a given domain — especially to help more people achieve those same levels, faster — but I don’t see any reason to think that those studies, few and far between, are the _only_ way to advance our knowledge of expertise.

@@ -1,8 +1,7 @@
 +++
-author = "Ben"
 title = "My 2013 in reading"
 date = "2013-12-19"
-tags = [ "reading" ]
+keywords = [ "reading" ]
 +++
 I've been using [Goodreads](https://www.goodreads.com/) reliably this year to track my reading (well, the book and graphic novel portions of my reading). Over the last month, I've been exploring that data -- mostly for my own personal enjoyment, but also to see if there were any useful, gleanable insights into how I read. We're not quite out of 2013 yet, but I thought it might be interesting to record what I've found so far in one place. Warning: this is navel-gazing of an extreme form.
 
