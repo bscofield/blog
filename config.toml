@@ -7,3 +7,6 @@ googleAnalytics = "UA-891855-6"
 
 [author]
   name = "Ben Scofield"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
