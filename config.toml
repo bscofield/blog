@@ -3,6 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Ben Scofield"
 theme = "hugo-material-blog"
+googleAnalytics = "UA-891855-6"
 
 [author]
   name = "Ben Scofield"
