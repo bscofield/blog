@@ -1,0 +1,41 @@
+---
+date: 2011-08-29
+layout: post
+title: On Interface Segregation
+published: true
+---
+<p class="p1">As promised, here's the first installment of my&nbsp;<a href="http://benscofield.com/on-fractal-design"><span class="s1">Fractal Design series</span></a>. I'd like to kick things off with what might seem to be an odd choice for Rubyists: the&nbsp;<a href="http://en.wikipedia.org/wiki/Interface_segregation_principle"><span class="s1">interface segregation principle</span></a>.</p>
+<p class="p2"><strong>A Brief Introduction to the ISP</strong></p>
+<p class="p1">Interface Segregation is one of the SOLID design principles, and states:</p>
+<p class="p2"><em>Clients should not be forced to depend upon interfaces that they do not use.</em> (<a href="http://www.objectmentor.com/resources/articles/isp.pdf"><span class="s1">source</span></a>)</p>
+<p class="p2">The idea is that when a class implements an interface, it should only get methods that it needs. When followed, you get higher cohesion and less coupling in your code.</p>
+<p class="p2">In Ruby, we don't have explicit interface constructs -- but we do have plenty of violations of this principle.</p>
+<p class="p1"><strong>Utility Modules</strong></p>
+<p class="p1">At RailsConf a few months ago, DHH justified the asset pipeline by referring to the <span class="s2">javascripts</span> and <span class="s2">stylesheets</span> folders in Rails as junk drawers, full of bric-a-brac and this-and-that. Modules make a much better target for that description, though.</p>
+<p class="p1">I've seen (and/or written) any number of medium- or larger-sized Ruby applications where there's a utility module, filled with all sorts of methods used here or there in the application. Such modules are created with the best of intentions -- people just want to stay DRY, after all, so they extract methods that appear in multiple classes or views, but they end up dropping those into an ever-expanding, unfocused module that then has to be included all over the place even when only a fraction of it is used in any particular context.</p>
+<p class="p3"><span class="s3"><span class="s4"><script src="https://gist.github.com/1178194.js"></script></span></span></p>
+<p class="p1">Sure, many classes that include Toolbox might use the log method -- but how many of them need to format credit card numbers, or select a random element from an array? Here's a better approach:</p>
+<p class="p3"><span class="s3"><span class="s4"><script src="https://gist.github.com/1178197.js"></script></span></span></p>
+<p class="p1">Granted, there's more code now, but this ISP-following refactoring allows us to include just the pieces of Toolbox that we need where we need them. The result is a cleaner, more comprehensible, and more testable system.</p>
+<p class="p1"><strong>ActiveSupport</strong></p>
+<p class="p1">For a very long while, the biggest ISP offender in Ruby was ActiveSupport. It was the utility module pattern writ large -- including it anywhere brought in a huge amount of code, the vast majority of which was completely irrelevant to the reason you included it somewhere.</p>
+<p class="p1">In Rails 3, ActiveSupport was refactored and modularized so that you could include just the pieces you need as you needed them:</p>
+<p class="p3"><span class="s3"><span class="s4"><script src="https://gist.github.com/1178210.js"></script></span></span></p>
+<p class="p1">And millions of gems, non-Rails applications, and more breathed a sigh of relief.</p>
+<p class="p1"><strong>Rails Helpers</strong></p>
+<p class="p1">Sticking with Rails, there's one violation of ISP still present in the current releases by default: automatic controller-based helper generation:</p>
+<p class="p3"><span class="s3"><span class="s4"><script src="https://gist.github.com/1178211.js"></script></span></span></p>
+<p class="p1">I can count on one hand the number of controllers I've seen that use the same helper methods across even a majority of their actions, much less all of them. It's a clear violation -- controller-scoped helpers are automatically included in all of that controller's views, regardless of whether they are needed or not.</p>
+<p class="p1">Luckily, this is easy to fix. In your <span class="s2">config/application.rb</span>, add a <span class="s2">config.generators</span> block:</p>
+<p class="p3"><span class="s3"><span class="s4"><script src="https://gist.github.com/1178214.js"></script></span></span></p>
+<p class="p1">And voila, the offending helpers are no longer created:</p>
+<p class="p3"><span class="s3"><span class="s4"><script src="https://gist.github.com/1178218.js"></script></span></span></p>
+<p class="p1">Of course, many of you have probably been ignoring the auto-generated helpers for years, creating smaller, more focused, more ISP-compliant ones the whole time. To you, I say: Good show!</p>
+<p class="p1"><strong>JavaScript and CSS</strong></p>
+<p class="p1">In my introductory post, I promised that we'd be looking at these principles at various levels of code. In the above examples, we've mainly stuck to the class and library levels (or to reasonable facsimiles thereof) of complexity -- but there's another spectrum on which we can look at code. In addition to the server-side examples we've already seen, we can get significant violations of the ISP on the client-side, with JavaScript and CSS.</p>
+<p class="p1">Go to your app and take a look at the JavaScript and CSS you're serving up on each page. Chances are, there's a ton of stuff in there that isn't relevant to any given page -- even if you're using the new Rails asset pipeline, <span class="s2">asset_packager</span>, or something similar, it takes a tremendous and constant effort to make sure you're only sending what you need down the pipe at any given time. I've seen thousands of lines of JavaScript &nbsp;and CSS come down on pages that don't use any of it, and I'm sure you have, too.</p>
+<p class="p1">Following the ISP is inherently harder when you get code from a third-party. As much work as has been done to keep JavaScript libraries like jQuery slim, there's still always going to be code in there that you don't need.&nbsp;<a href="http://jqueryui.com/"><span class="s1">jQuery UI</span></a>&nbsp;does a nice job of providing a custom script generator, allowing you to choose only the effects that you want -- but that probably isn't a universal solution.&nbsp;</p>
+<p class="p1">With any design principle, there's a tradeoff. With the ISP, it's between convenience and precision. It may be absolutely more correct to have a unique, customized JavaScript and CSS load for each page on your site, but the organizational work to reach that goal -- and the cognitive overhead of figuring out which features are shared between multiple pages and unique to individual ones, so that you can find the right file to edit -- could easily become overwhelming.</p>
+<p class="p1"><strong>Libraries and Applications</strong></p>
+<p class="p1">When you move from classes and modules to the larger scales of libraries and applications, the ISP doesn't seem to map that closely to the code -- we move from discussing implementing interfaces to providing and consuming them. Nevertheless, I think there's still some good to come out of thinking this way.&nbsp;</p>
+<p class="p1">And ISP-friendly gem, for instance, should provide a single chunk of related functionality, without a ton of extraneous stuff thrown in (hey, old ActiveSupport -- there you are again!). An ISP-friendly system of applications would pass around APIs where each application did something relatively specific... but at a certain point this approach transitions from being an example of interface segregation to&nbsp;illustrating the&nbsp;<a href="http://en.wikipedia.org/wiki/Single_responsibility_principle"><span class="s1">Single Responsibility Principle</span></a>&nbsp;(which we'll be getting to soon enough).</p>

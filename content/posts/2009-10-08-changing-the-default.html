@@ -1,0 +1,12 @@
+---
+date: 2009-10-08
+layout: post
+title: Changing the default
+published: true
+---
+<p>I create (or at least start) a lot of microapplications &ndash; my "Ideas - Dev" list in <a href="http://www.evernote.com">Evernote</a> is huge, and I try to pick off a new one every few weeks (at least), so I'm usually working on <em>something </em>newish.&nbsp;This fact on its own isn't particularly interesting, but what this practice has done is allow me to experiment with new things <em>regularly</em> and on a <em>real project</em>.  As an example, I've been using <a href="http://www.mongodb.org">MongoDB</a> as the persistence layer for several of these apps. Where before I'd have relied on MySQL (or, more rarely, SQLite), I'm now making Mongo the default &ndash; when I start up a new project, I yank out ActiveRecord and drop in MongoMapper. This has resulted in two important benefits:</p>
+<ul>
+<li>I've learned a lot more about how Mongo (and, by extension, other document-oriented database) work.</li>
+<li>I'm better at figuring out where a document-oriented database does and doesn't work &ndash; I've had to replace Mongo on one application because it just wasn't a good fit for the domain.</li>
+</ul>
+<p>The exact same process happened when I started replacing Prototype and Scriptaculous with jQuery &ndash; I was able to dig down into the benefits and problems with it, and eventually make an informed decision about which library I wanted to use.  If you're starting a new project, give a thought to changing one of your default settings. At worst, you'll have to revert that change later if you realize that the original worked better, but even then you'll have learned something valuable &ndash; and the chance to discover something new that works better is a huge win.</p>

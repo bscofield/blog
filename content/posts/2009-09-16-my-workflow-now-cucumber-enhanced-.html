@@ -1,0 +1,21 @@
+---
+date: 2009-09-16
+layout: post
+title: My workflow - now Cucumber-enhanced!
+published: true
+---
+<p>[[posterous-content:npromobotiplCJFzxDBp]]So I've been using <a href="http://cukes.info">Cucumber</a> somewhat heavily for a while now, on both personal and client projects, and I'm starting to settle into a comfortable rhythm with it. At first, though, I found integrating features into my workflow extremely disconcerting. It went something like this:</p>
+<ul>
+<li>I'd write a feature, run it, and watch it flag half the steps as 'pending'.</li>
+<li>Then, I'd drop down into the step definitions and fill them out with the appropriate lower-level code (e.g., "Given a user named Sarah" became <code>User.create(:name =&gt; 'Sarah')</code>).</li>
+<li>When the steps seemed correct, I'd rerun the feature and see it fail on (usually) the first step.</li>
+<li>I'd then drop into the appropriate lower level &ndash; controllers or models, but usually the latter at this stage &ndash; and work through things in my normal, mostly TDDish way.</li>
+<li>Once I got the appropriate lower-level code tested and working for that step, I'd rerun the feature and repeat the cycle for each step that failed.</li>
+</ul>
+<p>This process worked, but I wouldn't say it worked <em>well</em>. I ended up bouncing almost constantly between running the feature (to see which step was failing) and the functional and unit tests, and all in all never quite felt confident that things were working at any given point.  After talking to a number of people about their workflows with Cucumber, however, I started working slightly differently. Now, things go more like this:</p>
+<ul>
+<li>I write a feature, run it, and watch it flag half the steps as 'pending'.</li>
+<li>I then leave Cucumber and drop into the lower-level code, referring to the original feature only if I forget the overall vision of what I'm working on. At this point, my work feels pretty much the same as it did before I started using Cucumber.</li>
+<li>Once I'm satisfied with the tests and code at the lower level, I return to Cucumber, fill out the step definitions, and run the feature &ndash; at which point I'm either done (because the steps all pass), or realize I've forgotten something and drop down to the lower level again to fix it.</li>
+</ul>
+<p>The key change here is that I stay out of Cucumber <em>as much as possible</em>; I only run features at the beginning (to see all the pendings) and at the end (to see the passes), and I really only touch the step definitions once. In effect, I've moved away from Cucumber as part of my test-driven development cycle, and instead use it as an overarching vision for the high-level functionality I'm working on... and yes, I know this sounds very close to the language of BDD, but it seems much closer to being <em>story</em>-driven than behavior-driven to me (behavior sounds more like the lower level, where I'm still clearly TDDing, thank you very much).  So that's how I'm working with Cucumber now. What about you? Do you bounce back and forth frequently, and happily? Have you eliminated controller/functional testing in favor of Cucumber, thus reducing the levels to navigate? Done something completely different? Inquiring minds want to know!</p>
