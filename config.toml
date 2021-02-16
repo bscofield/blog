@@ -10,3 +10,14 @@ googleAnalytics = "UA-891855-6"
 
 [permalinks]
   posts = "/:year/:month/:title/"
+
+# Main menu
+[[languages.en.menu.main]]
+  url = "/posts"
+  name = "Posts"
+  weight = 1
+
+[[languages.en.menu.main]]
+  url = "/now"
+  name = "Now"
+  weight = 2
