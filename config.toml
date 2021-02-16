@@ -5,7 +5,6 @@ paginate = 8
 title = "Ben Scofield"
 theme = "hugo-vitae"
 googleAnalytics = "UA-891855-6"
-smartypants = false
 
 [author]
   name = "Ben Scofield"
@@ -43,7 +42,7 @@ cmd = "mailto:me@benscofield..com"
 [[params.social]]
 name = "RSS"
 icon = "fas fa-rss"
-url = "/posts/index.xml"
+url = "/index.xml"
 
 
 [params]
