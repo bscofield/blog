@@ -1,8 +1,9 @@
 baseURL = "https://benscofield.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+paginate = 8
 title = "Ben Scofield"
-theme = "hugo-material-blog"
+theme = "hugo-vitae"
 googleAnalytics = "UA-891855-6"
 
 [author]
@@ -12,12 +13,41 @@ googleAnalytics = "UA-891855-6"
   posts = "/:year/:month/:title/"
 
 # Main menu
-[[languages.en.menu.main]]
+[[menu.main]]
   url = "/posts"
   name = "Posts"
   weight = 1
 
-[[languages.en.menu.main]]
+[[menu.main]]
   url = "/now"
   name = "Now"
   weight = 2
+
+# Social Menu
+[[params.social]]
+name = "Github"
+icon = "fab fa-github"
+url = "https://github.com/bscofield"
+
+[[params.social]]
+name = "Twitter"
+icon = "fab fa-twitter"
+cmd = "https://twitter.com/bscofield"
+
+[[params.social]]
+name = "Email"
+icon = "fas fa-envelope"
+cmd = "mailto:me@benscofield..com"
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "/posts/index.xml"
+
+
+[params]
+	avatar = "/img/marmalade.png"
+
+  nofeedSections = ["now"]
+
+  subtitle = "... rarely updated"
