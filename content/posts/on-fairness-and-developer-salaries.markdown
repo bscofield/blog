@@ -3,7 +3,7 @@ layout: post
 title: "On fairness and developer salaries"
 date: 2013-04-22
 comments: true
-categories: 
+categories:
 ---
 I'm taking advantage of being [funemployed](http://benscofield.com/on-taking-time-to-think/) by taking a few online courses, including [Dan Ariely](http://danariely.com/)'s [*A Beginner's Guide to Irrational Behavior*](https://www.coursera.org/course/behavioralecon) at [Coursera](https://www.coursera.org/). I'm very familiar with Ariely's work (I've read each of his books and cited various pieces of his research in [my talk at SXSW](http://www.slideshare.net/bscofield/mind-control-psychology-for-the-web) a few years ago), but I've been pleasantly surprised as each week has taught me something new.
 
