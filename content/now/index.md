@@ -1,6 +1,6 @@
 ---
 date: 2021-02-15
-type: page
+type: now
 layout: about
 title: What I'm doing now
 published: true
