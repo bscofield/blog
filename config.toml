@@ -48,6 +48,7 @@ url = "/index.xml"
 [params]
 	avatar = "/img/marmalade.png"
 
+  mainSections = ["posts"]
   nofeedSections = ["now"]
 
   subtitle = "... rarely updated"
