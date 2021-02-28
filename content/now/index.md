@@ -15,7 +15,7 @@ And continuining on that theme, I'm pretty sure that context is core to understa
 
 ### Working at GitHub
 
-I'm a Staff Engineer at [GitHub](https://github.com/), working as part of the UI Platform group. Among other things, I'm looking at changes we could make to [Primer React](https://primer.style/components/) to help it better meet our future needs, improving how we evaluate frontend engineering candidates' technical abilities, and helping new engineer hires get a solid grip on the firehose of information coming their way in the first few weeks after they join.
+I'm a Staff Engineer at [GitHub](https://github.com/), working as part of the UI Platform group. Among other things, I'm looking at changes we could make to [Primer React](https://primer.style/components/) to make it more flexible as we grow, improving how we evaluate frontend engineering candidates' technical abilities, and helping new engineer hires get a solid grip on the firehose of information coming their way in the first few weeks after they join.
 
 ### Surviving the pandemic
 
