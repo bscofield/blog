@@ -1,5 +1,5 @@
 ---
-date: 2021-02-15
+date: 2021-03-31
 layout: now
 title: What I'm doing now
 published: true
@@ -19,5 +19,5 @@ I'm a Staff Engineer at [GitHub](https://github.com/), working as part of the UI
 
 ### Surviving the pandemic
 
-The family and I have been riding out the pandemic at home in North Carolina; my spouse is now vaccinated (in virtue of her job at the county health department), the kids are in virtual school, and we're all a little stir crazy thanks to too few trips outside the house, but we've been incredibly fortunate so far.
+The family and I have been riding out the pandemic at home in North Carolina; the kids are in virtual school, my spouse is fully vaccinated, and I've had my first dose 💉. We're all a little stir crazy thanks to too much time inside the house, but we've been incredibly fortunate so far, and we're looking forward to (safely) taking some trips this summer.
 
