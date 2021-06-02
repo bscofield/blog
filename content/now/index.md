@@ -1,5 +1,5 @@
 ---
-date: 2021-05-15
+date: 2021-06-02
 layout: now
 title: What I'm doing now
 published: true
@@ -7,7 +7,7 @@ published: true
 
 ### Thinking about expertise, understanding, and context
 
-I'm still very interested in expertise, and I've been actively seeking out opportunities to learn from researchers doing primary work on it. I'm particularly interested in exploring how we tend to lump multiple distinct expertises together.
+I'm still very interested in expertise, and I've been actively seeking out opportunities to learn from researchers doing primary work on it. I'm particularly interested in how we individuate domains of expertise (i.e., we talk of people excelling at baseball even when there are extremely distinct *ways* of excelling).
 
 My current view of expertise is that (to oversimplify) it consists of both _skill_ and _understanding_ in a given domain. Skill feels like well-trodden territory -- it's obvious and (relatively) easy to study, but I've been disappointed with the research on understanding, especially once you get out of philosophy of science.
 
@@ -19,4 +19,4 @@ I'm a Staff Engineer at [GitHub](https://github.com/), working as part of the UI
 
 ### Surviving the pandemic
 
-The family and I have been riding out the pandemic at home in North Carolina; the kids' year of virtual school is wrapping up soon, and we'll be glad to see the back of it. My spouse and I are both fully vaccinated, and my oldest daughter had her first shot a few days ago. We're *really* looking forward to being able to travel again, and our first trip to visit already-vaccinated grandparents is coming up at the end of the month.
+The family and I have been riding out the pandemic at home in North Carolina; the kids' year of virtual school is *almost* done, and we can't wait to see the back of it. My spouse and I are fully vaccinated, and my oldest should be getting her second shot in the coming weeks; we took advantage of our increasing immunity to visit grandparents for the first time in nearly a year and a half.
