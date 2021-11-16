@@ -15,7 +15,7 @@ Right now, I'm mostly thinking about understanding and *context*, how understand
 
 ### Working at HomeLight
 
-At the end of July, I left [GitHub](https://github.com/) to join [HomeLight](https://www.homelight.com/) as their first Principal Engineer. I'm looking forward to working with the team to build engineering practices that can scale as we grow; right now, I'm still in the midst of meeting everyone and building my mental model of our systems.Primer and its status as an open source project.
+At the end of July, I left [GitHub](https://github.com/) to join [HomeLight](https://www.homelight.com/) as their first Principal Engineer. I'm looking forward to working with the team to build engineering practices that can scale as we grow; right now, I'm still in the midst of meeting everyone and building my mental model of our systems.
 
 ### Surviving the pandemic
 
