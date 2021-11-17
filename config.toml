@@ -46,7 +46,7 @@ url = "/index.xml"
 
 
 [params]
-	avatar = "/img/marmalade.png"
+	avatar = "/img/2021-marmalade.jpg"
 
   mainSections = ["posts"]
   nofeedSections = ["now"]
