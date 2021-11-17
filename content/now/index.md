@@ -1,5 +1,5 @@
 ---
-date: 2021-08-01
+date: 2021-11-16
 layout: now
 title: What I'm doing now
 published: true
@@ -7,16 +7,16 @@ published: true
 
 ### Thinking about expertise, understanding, and context
 
-I'm still very interested in expertise, and I've been actively seeking out opportunities to learn from researchers doing primary work on it. I'm particularly interested in how we individuate domains of expertise; we talk about people excelling at complex sports (say, baseball), for instance, but there's no single *way* of doing so. Pitchers are (generally) experts at very different things than outfielders; catchers differ substantially from shortstops. Is there a single notion of "baseball expertise," then, or ought we look at things more granularly?
+I'm still very interested in expertise, though my self-directed research has slowed a bit over the last few months as I settle into my new job. I'm continuing to think about the nature of expertise -- what do you have when you have it? How do you develop it? -- and trying to fit expertise across a wide variety of domains into a single model (though I've started to wonder if such a unified theory of expertise is particularly worthwhile)
 
-My current view of expertise is that (to oversimplify) it consists of both _skill_ and _understanding_ in a given domain. Skill feels like well-trodden territory -- it's obvious and (relatively) easy to study, but I've been disappointed with the research on understanding, especially once you get out of philosophy of science.
+My current view is that expertise is a combination of skill, understanding, and (though I don't have a better term yet) capability, all of which combine to produce reliably superior performance in a given domain.
 
-Right now, I'm mostly thinking about understanding and *context*, how understanding something involves situating it in your existing context, finding connections, etc. As part of that, I'm looking to spin up an experiment on how we create and consume certain types of knowledge (like history, for instance), so hopefully there'll be more about that in a future update here.
+I've been thinking about the role of technology (how it can compensate for a lack of one of those factors to improve performance), and especially about how understanding is related to context (understanding a topic involves situating it within your existing context, finding connections, etc.)
 
 ### Working at HomeLight
 
-At the end of July, I left [GitHub](https://github.com/) to join [HomeLight](https://www.homelight.com/) as their first Principal Engineer. I'm looking forward to working with the team to build engineering practices that can scale as we grow; right now, I'm still in the midst of meeting everyone and building my mental model of our systems.
+At the end of July, I left [GitHub](https://github.com/) to join [HomeLight](https://www.homelight.com/) as their first Principal Engineer. Since then, I've been working with the team to build engineering practices that can scale as we grow. Some of that work is head-down in the code or in infrastructure, but for the most part I'm having great conversations with people every day.
 
 ### Surviving the pandemic
 
-The family and I have been fortunate; we've been riding out the pandemic at home in North Carolina. The kids finished their full year of virtual school in June, and are into the first weeks of the next school year back in person (they're on year-round schedules, so the summer break is shorter than when I was a kid -- we did have time for a short trip to the beach, though). Three of us are fully vaccinated, and we're waiting anxiously for the vaccines to be approved for the <12 set so that we can get our youngest protected.
+Our family has been extremely fortunate. Aside from two short trips (both taken in the last four months), we've been mostly house-bound here in North Carolina. The kids have been back in school since July and are doing well -- especially since our youngest got her first shot earlier this month. Our families are fully vaccinated, and we're looking foward to spending a bit of time with them in the coming months.
