@@ -9,7 +9,7 @@ published: true
 
 I'm still very interested in expertise, though my self-directed research has slowed a bit over the last few months as I settle into my new job. I'm continuing to think about the nature of expertise -- what do you have when you have it? How do you develop it? -- and trying to fit expertise across a wide variety of domains into a single model (though I've started to wonder if such a unified theory of expertise is particularly worthwhile)
 
-My current view is that expertise is a combination of skill, understanding, and (though I don't have a better term yet) capability, all of which combine to produce reliably superior performance in a given domain.
+My current view is that expertise is a combination of skill and understanding; these combine with (for lack of a better term) capabilities to produce reliably superior performance in a given domain.
 
 I've been thinking about the role of technology (how it can compensate for a lack of one of those factors to improve performance), and especially about how understanding is related to context (understanding a topic involves situating it within your existing context, finding connections, etc.)
 
