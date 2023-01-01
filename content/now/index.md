@@ -1,5 +1,5 @@
 ---
-date: 2021-11-16
+date: 2023-01-01
 layout: now
 title: What I'm doing now
 published: true
@@ -13,10 +13,10 @@ My current view is that expertise is a combination of skill and understanding; t
 
 I've been thinking about the role of technology (how it can compensate for a lack of one of those factors to improve performance), and especially about how understanding is related to context (understanding a topic involves situating it within your existing context, finding connections, etc.)
 
-### Working at HomeLight
+### Work
 
-At the end of July, I left [GitHub](https://github.com/) to join [HomeLight](https://www.homelight.com/) as their first Principal Engineer. Since then, I've been working with the team to build engineering practices that can scale as we grow. Some of that work is head-down in the code or in infrastructure, but for the most part I'm having great conversations with people every day.
+After a bit more than a year, I decided to leave [HomeLight](https://www.homelight.com/) to take some time to think about what I want to work on going into 2023. I took November and December to reset, dive into some topics that I'm finding exciting, and think through some projects I've had on the backburner for years. Now that we're into 2023, I'm going to be starting conversations with folks and companies to see where I might fit in to a new opportunity.
 
-### Surviving the pandemic
+### Family
 
-Our family has been extremely fortunate. Aside from two short trips (both taken in the last four months), we've been mostly house-bound here in North Carolina. The kids have been back in school since July and are doing well -- especially since our youngest got her first shot earlier this month. Our families are fully vaccinated, and we're looking foward to spending a bit of time with them in the coming months.
+We've continued to stay healthy; we saw one set of grandparents at Thanksgiving and the other over Hannukah and Christmas, and both sides of the family are doing pretty well. The kids go back to school in a few days (for the high schooler) or next week (for the fifth grader), and I think we're all excited to get back to friends and routine after having had a lot of fun over the holidays.
