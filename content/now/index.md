@@ -1,22 +1,22 @@
 ---
-date: 2023-01-01
+date: 2023-02-16
 layout: now
 title: What I'm doing now
 published: true
 ---
 
-### Thinking about expertise, understanding, and context
+### Expertise, understanding, and attention
 
-I'm still very interested in expertise, though my self-directed research has slowed a bit over the last few months as I settle into my new job. I'm continuing to think about the nature of expertise -- what do you have when you have it? How do you develop it? -- and trying to fit expertise across a wide variety of domains into a single model (though I've started to wonder if such a unified theory of expertise is particularly worthwhile)
+I've been thinking about expertise for well over a decade now -- what does it mean to have it? How do you develop it? -- and I've been doing more (self-directed) research over the last few months. I'm not entirely convinced that a single unified theory of expertise across all domains is possible or worthwhile, but I've got some working ideas that I'm always looking to explore.
 
-My current view is that expertise is a combination of skill and understanding; these combine with (for lack of a better term) capabilities to produce reliably superior performance in a given domain.
+My current view is that expertise is: a set of factors, acquired through specific effort, that contribute to reliably superior perfomance in a domain. Most recently, I've been thinking of expertise as having three types of component: attention, understanding, and action. Expert performers *attend* to different things than novices, and have better control over their attention. Expert performers *understand* aspects of their domain in ways that novice's don't. Expert performers are capable (through skill, changes to their bodies, etc.) of taking *actions* that novices can't reliably replicate.
 
-I've been thinking about the role of technology (how it can compensate for a lack of one of those factors to improve performance), and especially about how understanding is related to context (understanding a topic involves situating it within your existing context, finding connections, etc.)
+Of these components, I've been drilling down on attention and understanding -- I think attention is vastly understudied, and understanding seems to be in a potential golden period with the flurry of work in tools for thought and related fields.
 
 ### Work
 
-After a bit more than a year, I decided to leave [HomeLight](https://www.homelight.com/) to take some time to think about what I want to work on going into 2023. I took November and December to reset, dive into some topics that I'm finding exciting, and think through some projects I've had on the backburner for years. Now that we're into 2023, I'm going to be starting conversations with folks and companies to see where I might fit in to a new opportunity.
+Towards the end of last year, I decided to leave [HomeLight](https://www.homelight.com/) to take some time to think about what I want to work on going into 2023. I took November and December to reset, dive into some topics that I'm finding exciting, and think through some projects I've had on the backburner for years. I'm currently having conversations with folks and companies to see what might be my best path forward, where hopefully I'll be able to do work towards my long-term interests in expertise and related fields.
 
 ### Family
 
-We've continued to stay healthy; we saw one set of grandparents at Thanksgiving and the other over Hannukah and Christmas, and both sides of the family are doing pretty well. The kids go back to school in a few days (for the high schooler) or next week (for the fifth grader), and I think we're all excited to get back to friends and routine after having had a lot of fun over the holidays.
+We're healthy and happy (or as much so as can be expected for a tween and a high-schooler). We're looking forward to the warmer weather coming and have enjoyed the previews we've gotten so far, and we've done an OK job of keeping up some of the family activities we took up during the height of the pandemic (family movie and game nights). Now our struggle is mostly to identify movies that we parents loved in 80s that hold up well enough for the kids to enjoy them 😅
