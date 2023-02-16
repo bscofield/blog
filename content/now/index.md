@@ -15,7 +15,7 @@ Of these components, I've been drilling down on attention and understanding -- I
 
 ### Work
 
-Towards the end of last year, I decided to leave [HomeLight](https://www.homelight.com/) to take some time to think about what I want to work on going into 2023. I took November and December to reset, dive into some topics that I'm finding exciting, and think through some projects I've had on the backburner for years. I'm currently having conversations with folks and companies to see what might be my best path forward, where hopefully I'll be able to do work towards my long-term interests in expertise and related fields.
+Towards the end of last year, I decided to leave [HomeLight](https://www.homelight.com/) to take some time to think about what I want to work on going into 2023. I took November and December to reset, dive into some topics that I'm finding exciting, and think through some projects I've had on the backburner for years. I'm currently having conversations with folks and companies to see what might be my best path forward, where hopefully I'll be able to do work towards my long-term interests in expertise and related fields. If I could wave a magic wand and create my ideal role, I think it'd be much closer to research and applied research, but I'm encouraged my many of the folks I've met so far.
 
 ### Family
 
