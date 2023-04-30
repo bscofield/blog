@@ -1,5 +1,5 @@
 ---
-date: 2023-02-16
+date: 2023-04-30
 layout: now
 title: What I'm doing now
 published: true
@@ -15,8 +15,8 @@ Of these components, I've been drilling down on attention and understanding -- I
 
 ### Work
 
-Towards the end of last year, I decided to leave [HomeLight](https://www.homelight.com/) to take some time to think about what I want to work on going into 2023. I took November and December to reset, dive into some topics that I'm finding exciting, and think through some projects I've had on the backburner for years. I'm currently having conversations with folks and companies to see what might be my best path forward, where hopefully I'll be able to do work towards my long-term interests in expertise and related fields. If I could wave a magic wand and create my ideal role it'd probably something like research and applied research, but I'm encouraged by many of the folks I've met so far.
+As of mid-April, I've taken on the role of fractional CTO at [Watertight](https://watertight.co/), helping build out their product and engineering organization as they raise funding and work to make the relationship between content producers and brands more efficient. I've kept that fractional, however, so I can devote a significant amount of attention to a couple of projects that fall directly in line with my larger goals around expertise and knowledge -- hopefully I'll have more to say about that soon. 
 
 ### Family
 
-We're healthy and happy (or as much so as can be expected for a tween and a high-schooler). We're looking forward to the warmer weather coming and have enjoyed the previews we've gotten so far, and we've done an OK job of keeping up some of the family activities we took up during the height of the pandemic (family movie and game nights). Now our struggle is mostly to identify movies that we parents loved in 80s that hold up well enough for the kids to enjoy them 😅
+We're healthy and happy (or as much so as can be expected for a tween and a high-schooler). We're looking forward to spring and summer after a dreary winter, and we're hoping that some fruit trees we planted last year will start to produce 🤞
