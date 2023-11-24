@@ -1,22 +1,18 @@
 ---
-date: 2023-04-30
+date: 2023-11-24
 layout: now
 title: What I'm doing now
 published: true
 ---
 
-### Expertise, understanding, and attention
-
-I've been thinking about expertise for well over a decade now -- what does it mean to have it? How do you develop it? -- and I've been doing more (self-directed) research over the last few months. I'm not entirely convinced that a single unified theory of expertise across all domains is possible or worthwhile, but I've got some working ideas that I'm always looking to explore.
-
-My current view is that expertise is: a set of factors, acquired through specific effort, that contribute to reliably superior perfomance in a domain. Most recently, I've been thinking of expertise as having three types of component: attention, understanding, and action. Expert performers *attend* to different things than novices, and have better control over their attention. Expert performers *understand* aspects of their domain in ways that novice's don't. Expert performers are capable (through skill, changes to their bodies, etc.) of taking *actions* that novices can't reliably replicate.
-
-Of these components, I've been drilling down on attention and understanding -- I think attention is vastly understudied, and understanding seems to be in a potential golden period with the flurry of work in tools for thought and related fields.
-
 ### Work
 
-As of mid-April, I've taken on the role of fractional CTO at [Watertight](https://watertight.co/), helping build out their product and engineering organization as they raise funding and work to make the relationship between content producers and brands more efficient. I've kept that fractional, however, so I can devote a significant amount of attention to a couple of projects that fall directly in line with my larger goals around expertise and knowledge -- hopefully I'll have more to say about that soon. 
+It's been over a year since I left HomeLight, and it's been a good year. I've been contracting for the last six months or so, splitting my time between helping various companies and working on my own development and learning projects. I expect to continue contracting through the end of the year, but in 2024 I'm hoping to find (or create) a role where I can dig in on expertise acquisition much more deeply.
+
+### Expertise
+
+Speaking of, on the expertise front I'm still reading, thinking, and writing about what it *means* to be good at some domain. I've harbored ambitions of starting a podcast on the topic for a while now, talking to folks at all stages of development to see how their thoughts about their domain change over time (what does a novice pay attention to, for instance, and how does that change as they learn?). If you're interested in talking about that, for any domain, give me a shout!
 
 ### Family
 
-We're healthy and happy (or as much so as can be expected for a tween and a high-schooler). We're looking forward to spring and summer after a dreary winter, and we're hoping that some fruit trees we planted last year will start to produce 🤞
+We remain happy and healthy; we've been unusually busy with trips and events over the past few months (Renaissance Faire! Movie nights! Sleepovers! (US) Thanksgiving!), and we're looking forward to resting a bit more as we move into the new year -- and maybe, hopefully, seeing some snow this winter.
