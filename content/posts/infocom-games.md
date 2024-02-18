@@ -1,5 +1,5 @@
 ---
-title: "Infocom Games"
+title: "Infocom games and accessing knowledge"
 date: 2024-02-18T15:33:00-05:00
 ---
 
