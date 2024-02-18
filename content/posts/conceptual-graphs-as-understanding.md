@@ -1,5 +1,5 @@
 ---
-title: "Conceptual Graphs as Understanding"
+title: "Conceptual graphs as understanding"
 date: 2024-02-14T21:24:41-05:00
 ---
 
