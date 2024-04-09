@@ -1,18 +1,27 @@
 ---
-date: 2023-11-24
+date: 2024-04-09
 layout: now
 title: What I'm doing now
 published: true
 ---
 
-### Work
+### Questions
 
-It's been over a year since I left HomeLight, and it's been a good year. I've been contracting for the last six months or so, splitting my time between helping various companies and working on my own development and learning projects. I expect to continue contracting through the end of the year, but in 2024 I'm hoping to find (or create) a role where I can dig in on expertise acquisition much more deeply.
+There are a few questions I'm particularly invested in right now:
 
-### Expertise
+- What lessons can be generalized from skill acquisition / motor learning research to non-motor expertise?
+- Closely related: how general can a theory of expertise even *be*?
+- What blocks exist to taking knowledge and skills from experts and teaching them directly to novices? (For instance: maybe experts do X, but you can only do X successfully if you already know Y, so you can't *just* teach novices X)
+- What's the lowest-friction stack for building extremely personal applications and tools?
 
-Speaking of, on the expertise front I'm still reading, thinking, and writing about what it *means* to be good at some domain. I've harbored ambitions of starting a podcast on the topic for a while now, talking to folks at all stages of development to see how their thoughts about their domain change over time (what does a novice pay attention to, for instance, and how does that change as they learn?). If you're interested in talking about that, for any domain, give me a shout!
+## Work
+
+I've been contracting / freelancing for about a year now; I've spent most of that time working with a company at the intersection of web3 and AI, helping them build out their offerings. At the same time, I've also been thinking a lot about those questions above, and I'd love to find a role where I could focus on them full-time.
+
+## Expertise
+
+Obviously, this is my primary interest right now (even the low-friction stack is related; I want it to be as easy and quick as possible to build tools and experiments to test out means of accelerating the development of expertise and understanding). I've started recording interviews for a podcast that I've wanted to exist for ages, and I'm hoping to start publishing it soon.
 
 ### Family
 
-We remain happy and healthy; we've been unusually busy with trips and events over the past few months (Renaissance Faire! Movie nights! Sleepovers! (US) Thanksgiving!), and we're looking forward to resting a bit more as we move into the new year -- and maybe, hopefully, seeing some snow this winter.
+We remain happy and healthy; we're in the height of our birthday season (all four of us have birthdays over the course of 3.5 months), so it's a fun time. Spring break just ended and both kids are in the home stretch of the school year, and we're planning summer trips now.
