@@ -30,9 +30,9 @@ icon = "fab fa-github"
 url = "https://github.com/bscofield"
 
 [[params.social]]
-name = "Mastodon"
-icon = "fab fa-mastodon"
-cmd = "https://hachyderm.io/@bscofield"
+name = "Bluesky"
+icon = "fab fa-bluesky"
+cmd = "https://bsky.app/profile/benscofield.com"
 
 [[params.social]]
 name = "Email"
