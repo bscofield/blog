@@ -1,5 +1,5 @@
 ---
-date: 2025-01-01
+date: 2026-02-10
 layout: now
 title: What I'm doing now
 published: true
@@ -9,22 +9,24 @@ published: true
 
 There are a few questions I'm particularly invested in right now:
 
-- What lessons can be generalized from skill acquisition / motor learning research to non-motor expertise?
-- Closely related: how general can a theory of expertise even *be*?
-- What blocks exist to taking knowledge and skills from experts and teaching them directly to novices? (For instance: maybe experts do X, but you can only do X successfully if you already know Y, so you can't *just* teach novices X)
-- For any given domain, what are the tradeoffs between capabilities, skill, and understanding in performance?
-- What's the lowest-friction stack for building extremely personal applications and tools?
+- How should we treat "domains" when investigating expertise? How do we individuate them? What about relationships between them (hierarchical, overlapping, etc.)?
+- What do we make of domains with different characteristics of performance? Compare a seconds-long sprint to a months- or years-long novel.
+- What makes transfer between different domains more or less effective?
+- How universal is attentional fluidity as a component of expertise?
+- What are the factors of expertise that can be most developed most quickly? What do the tradeoffs between components of expertise look like?
 
 ## Work
 
-I've started looking for full-time work again -- after contracting for nearly two years, it's time to be a part of a more permanent team. I'd love to find a role where I can work towards answering some of those questions.
+For the last few months, I had a full-time role at [Bento](https://www.gobento.com/). Unfortunately, the company went through a round of layoffs in January, and I was one of the affected staff -- along with a lot of great other folks. I'm currently looking for new roles, especially with companies that are doing direct good in the world.
 
 ## Expertise
 
-This remains my primary interest, and the thread that runs through a lot of my work (even the low-friction stack is related; I want it to be as easy and quick as possible to build tools and experiments to test out means of accelerating the development of expertise and understanding). 
+Yep, this is still my primary interest (see those questions above for the proof). I'm trying to find the right balance of research, thinking, and writing on the topic, and I'm hoping to make some measurable progress on producing something of value this year. 
 
-I published three series of [Ten Thousand](https://tenthousand.fm/) in 2024 -- on software development, on academic philosophy, and on fiction-writing -- and I'm planning to do more of it in the coming year. I don't have anything concrete on the calendar yet, though.
+I'm quite glad for the experience of working on [Ten Thousand](https://tenthousand.fm/) back in 2024, and I've been thinking of bringing it back this year (though in a slightly different form).
 
 ### Family
 
-We've made it through another year, tackling middle and high school, starting to do college visits, and in general growing up. We're healthy and optimistic for what 2025 will bring.
+My oldest is in the second semester of their senior year, and we know where they're going to college in the fall. My youngest is in the process of figuring out which high school she'll attend. Time, it marches on.
+
+Also, we got a hamster.
